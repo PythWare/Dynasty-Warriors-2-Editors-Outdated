@@ -2,9 +2,8 @@ Update (Novemnber 8 2025):
 
 I am updating the Dynasty Warriors 2 modding tools with better code, this was made when I was still new to using Tkinter and when I used to be a novice with Python. So, the scripts in this repository are considered outdated. 
 
-use the new repository for Dynasty Warriors 2 Modding Tools:
-https://github.com/PythWare/Dynasty-Warriors-2-Tools
-
+The new repository for Dynasty Warriors 2 Modding Tools:
+https://github.com/PythWare/Burn-Engine
 
 Original Description:
 
